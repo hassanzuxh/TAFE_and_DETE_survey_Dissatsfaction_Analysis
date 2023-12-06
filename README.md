@@ -3,16 +3,16 @@
 In this project I was given a task as a data analyst to clean and analyze two Employee survey dataset responses[TAFE survey and DETE survey] concerning resignation. 
 i was told to show my workings and answer the following questions
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? what about employees who have been there longer
-- Are younger employees resigning due to some kin of dissatisfaction ? what about older employees
+- Are younger employees resigning due to some kind of dissatisfaction ? what about older employees
 
 To start the project i began with the following
-- data exploration
-- data cleaning will be done to ensure te important columns and there relative records arenot dropped
-- data analysis using data analysis expression and visualization
-Data exploration  and cleaning wiil be done using python and analysis and visualization will be tackled with based on the volume of the cleaned data
+- data exploration.
+- data cleaning was done to ensure important columns and there relative records are not dropped.
+- data analysis using pivot table expression and visualization tools.
+Data exploration, cleaning analysis and visualization was done using python.
 
 # DATA EXPLORATION
-- i loaded both dataset and combed through them to identify possible hinderance to my Analysis
+- i loaded both dataset and combed through them to identify possible hinderance to my Analysis.
 from my EXPLORATION, i noticed that  
   - some rows are filled with "Not stated" meaning there is no value, especially in the DETE survey.
   - most columns does not concern my analysis 
@@ -74,6 +74,7 @@ from my EXPLORATION, i noticed that
         - Exception: Notable deviation in dissatisfaction trends for the 26-30 and 31-35 Age Range, indicates the unique factors at play. judging from the age range, this can majorly be due to career development, job roles or workplace dynamics.
 
 the fact that older people in different age-ranges tend to quit their jobs more often because of some kind of dissatisfaction shows how important it is to understand what different employees need at various points in their careers. But their are some younger age-ranges where this is not as clear. from my findings higher number of young age-range of employee(26-30) seems to express dissatisfaction which seems strange, deviating from the consisent trend. further exploration needs to be done to uncover this deviation.
+
 
 
 in summary, we can confidently say that employees who have stayed at either one of the institutions for a while are much more likely to quit because of some kind of dissatisfaction. this is simply true for older employees as well, except for those in the 26-30 age-range who actually show some of the highest dissatisfaction rates. 
