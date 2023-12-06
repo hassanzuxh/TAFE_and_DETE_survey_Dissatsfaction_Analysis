@@ -1,4 +1,4 @@
-#  Cleaning and Analyzing TAFE_and_DETE_Dissatsfaction_Responses_Survey
+#  Cleaning and Analyzing TAFE_and_DETE_Exit_Responses_Survey
 TEST
 In this project I was given a task as a data analyst to clean and analyze two Employee survey dataset responses[TAFE survey and DETE survey] concerning resignation. 
 i was told to show my workings and answer the following questions
