@@ -1,5 +1,5 @@
 #  Cleaning and Analyzing TAFE_and_DETE_Exit_Responses_Survey
-TEST
+
 In this project I was given a task as a data analyst to clean and analyze two Employee survey dataset responses[TAFE survey and DETE survey] concerning resignation. 
 i was told to show my workings and answer the following questions
 - Are employees who only worked for the institutes for a short period of time resigning due to some kind of dissatisfaction? what about employees who have been there longer
@@ -75,7 +75,7 @@ from my EXPLORATION, i noticed that
 
 the fact that older people in different age-ranges tend to quit their jobs more often because of some kind of dissatisfaction shows how important it is to understand what different employees need at various points in their careers. But their are some younger age-ranges where this is not as clear. from my findings higher number of young age-range of employee(26-30) seems to express dissatisfaction which seems strange, deviating from the consisent trend. further exploration needs to be done to uncover this deviation.
 
-IN CONCLUSION
+
 in summary, we can confidently say that employees who have stayed at either one of the institutions for a while are much more likely to quit because of some kind of dissatisfaction. this is simply true for older employees as well, except for those in the 26-30 age-range who actually show some of the highest dissatisfaction rates. 
 
 some challenges faced when cleaning the data include :
